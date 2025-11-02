@@ -12,7 +12,6 @@
     Ge Li</a><sup>1</sup>
     &nbsp;·&nbsp;
     Wei Gao</a><sup>*1, 2</sup>
-    &nbsp;·&nbsp;
   </p>
   <p align="center">
     <sup>1</sup>School of Electronic and Computer Engineering, Peking University
