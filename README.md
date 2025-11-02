@@ -23,9 +23,8 @@
 </p>
 
 
-# VGD: Visual Geometry Gaussian Splatting for Feed-Forward Surround-view Driving Reconstruction
-
-Code will be released soon. TBD.
+## TBD
+Code will be released soon.
 
 
 ## Introduction
